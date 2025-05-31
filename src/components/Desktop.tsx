@@ -6,7 +6,7 @@ import WindowManager from './WindowManager';
 import StartMenu from './StartMenu';
 import RightClickMenu from './RightClickMenu';
 
-const WALLPAPER_URL = '/public/assets/idk.png'; // Change this to your image path
+const WALLPAPER_URL = 'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//idk.png'; // Change this to your image path
 
 const Desktop: React.FC = () => {
   const [contextMenu, setContextMenu] = useState<{ isOpen: boolean, x: number, y: number }>({
@@ -51,7 +51,7 @@ const Desktop: React.FC = () => {
           <div className="fixed top-10 left-1/2 transform -translate-x-1/2 bg-white/40 shadow-lg rounded p-6 z-50 max-w-md text-center backdrop-blur">
             <div className="flex justify-center mb-4">
               <img
-          src="/public/assets/profilephoto.jpg"
+          src="https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//profilephoto.jpg"
           alt="Lerdi Salihi"
           className="w-40 h-40 object-cover rounded-full border-4 border-blue-500 shadow-lg"
               />

@@ -10,10 +10,10 @@ const projects: Project[] = [
     demoUrl: 'https://kosovar.netlify.app/',
     technologies: ['React', 'TypeScript', 'Supabase', 'Tailwind CSS', 'Leaflet Maps', 'Adobe Aero', "Node"],
     screenshots: [
-      'public/assets/kosovari1.png',
-      'public/assets/kosovari2.png'
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//kosovari1.png',
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//kosovari2.png'
     ],
-    logo: "public/assets/kosovarilogo.png"
+    logo: "https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//kosovarilogo.png"
   }, {
     id: 'Pokedox',
     name: 'Pokedox',
@@ -23,8 +23,8 @@ const projects: Project[] = [
     demoUrl: 'https://pokemonchallange.netlify.app/',
     technologies: ['React', 'Next.js', 'AWS Services'],
     screenshots: [
-      'public/assets/poke0.png',
-      'public/assets/poke1.png'
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke0.png',
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke1.png'
     ],
     logo: "https://vanilla-web-pokedex.pages.dev/assets/images/pokedex-logo.png"
   },
@@ -37,10 +37,10 @@ const projects: Project[] = [
     demoUrl: 'https://gymlift.netlify.app/',
     technologies: ['HTML5', 'CSS3', 'JavaScript', 'Responsive Design'],
     screenshots: [
-      'public/assets/gymlift1.png',
-      'public/assets/gymlift2.png'
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//gymlift1.png',
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//gymlift2.png'
     ],
-    logo: "public/assets/gymlogo.png"
+    logo: "https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//gymlogo.png"
   }  
   
 ];

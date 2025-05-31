@@ -7,7 +7,7 @@ const AboutContent: React.FC = () => {
       <div className="flex flex-col md:flex-row gap-6 items-start">
         <div className="w-full md:w-1/3 flex justify-center">
           <img
-            src="/public/assets/profilephoto.jpg"
+            src="https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//profilephoto.jpg"
             alt="Lerdi Salihi"
             className="w-40 h-40 object-cover rounded-full border-4 border-blue-500 shadow-lg"
           />
