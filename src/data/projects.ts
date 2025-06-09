@@ -14,20 +14,21 @@ const projects: Project[] = [
       'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//kosovari2.png'
     ],
     logo: "https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//kosovarilogo.png"
-  }, {
-    id: 'Pokedox',
-    name: 'Pokedox',
-    description: 'This is a modern, visually appealing Pokédex web app built with Next.js and React.It was made while learning AWS Services and doing a challange. It allows you to browse, search, and view details for all Pokémon, with a beautiful and responsive design, also added my own pokedex just becouse I wanted to add a personal touch.',
-    icon: 'public/assets/kosovarilogo.png',
-    githubUrl: 'https://github.com/lerthy/Pokemon',
-    demoUrl: 'https://pokemonchallange.netlify.app/',
-    technologies: ['React', 'Next.js', 'AWS Services'],
-    screenshots: [
-      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke0.png',
-      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke1.png'
-    ],
-    logo: "https://vanilla-web-pokedex.pages.dev/assets/images/pokedex-logo.png"
-  },
+  }, 
+  //   {
+  //   id: 'Pokedox',
+  //   name: 'Pokedox',
+  //   description: 'This is a modern, visually appealing Pokédex web app built with Next.js and React.It was made while learning AWS Services and doing a challange. It allows you to browse, search, and view details for all Pokémon, with a beautiful and responsive design, also added my own pokedex just becouse I wanted to add a personal touch.',
+  //   icon: 'public/assets/kosovarilogo.png',
+  //   githubUrl: 'https://github.com/lerthy/Pokemon',
+  //   demoUrl: 'https://pokemonchallange.netlify.app/',
+  //   technologies: ['React', 'Next.js', 'AWS Services'],
+  //   screenshots: [
+  //     'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke0.png',
+  //     'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke1.png'
+  //   ],
+  //   logo: "https://vanilla-web-pokedex.pages.dev/assets/images/pokedex-logo.png"
+  // },
   {
     id: 'gymlift',
     name: 'GymLift',
