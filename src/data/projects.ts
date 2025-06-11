@@ -15,20 +15,20 @@ const projects: Project[] = [
     ],
     logo: "https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//kosovarilogo.png"
   }, 
-  //   {
-  //   id: 'Pokedox',
-  //   name: 'Pokedox',
-  //   description: 'This is a modern, visually appealing Pokédex web app built with Next.js and React.It was made while learning AWS Services and doing a challange. It allows you to browse, search, and view details for all Pokémon, with a beautiful and responsive design, also added my own pokedex just becouse I wanted to add a personal touch.',
-  //   icon: 'public/assets/kosovarilogo.png',
-  //   githubUrl: 'https://github.com/lerthy/Pokemon',
-  //   demoUrl: 'https://pokemonchallange.netlify.app/',
-  //   technologies: ['React', 'Next.js', 'AWS Services'],
-  //   screenshots: [
-  //     'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke0.png',
-  //     'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv//poke1.png'
-  //   ],
-  //   logo: "https://vanilla-web-pokedex.pages.dev/assets/images/pokedex-logo.png"
-  // },
+  {
+    id: 'Appointly-ks',
+    name: 'Appointly-ks',
+    description: 'Appointed is a digital platform that connects businesses and customers in Kosovo, making it easier to book appointments in a fast, organized, and professional way. Many businesses in Kosovo still rely on phone calls or messages for scheduling, which leads to confusion, missed appointments, and wasted time.With Appointed, businesses can manage their schedules online, and customers can book appointments instantly, anytime. The platform sends reminders, avoids double bookings, and improves customer service. From salons and dentists to mechanics and freelancers, Appointed helps everyone work smarter.Kosovo needs this now more than ever, as digital tools are essential for growth, efficiency, and professionalism. Appointed is the bridge to a more organized and modern service economy.',
+    icon: 'https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//logopng1324.png',
+    githubUrl: 'https://github.com/lerthy/Appointly-ks',
+    demoUrl: 'https://appointly-ks.netlify.app/',
+    technologies: ['React', 'Next.js', 'Supabase', 'Tailwind CSS', 'TypeScript', 'Node.js'],
+    screenshots: [
+      'https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//Screenshot%202025-06-11%20163948.png',
+      'https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//Screenshot%202025-06-11%20164001.png'
+    ],
+    logo: "https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//logopng1324.png"
+  },
   {
     id: 'gymlift',
     name: 'GymLift',
