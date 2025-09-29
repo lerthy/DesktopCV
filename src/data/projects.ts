@@ -24,8 +24,8 @@ const projects: Project[] = [
     demoUrl: 'https://appointly-ks.netlify.app/',
     technologies: ['React', 'Next.js', 'Supabase', 'Tailwind CSS', 'TypeScript', 'Node.js'],
     screenshots: [
-      'https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//Screenshot%202025-06-11%20163948.png',
-      'https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//Screenshot%202025-06-11%20164001.png'
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv/Screenshot%202025-09-29%20at%2016.20.29.png',
+      'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv/Screenshot%202025-09-29%20at%2016.20.38.png'
     ],
     logo: "https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//logopng1324.png"
   },
