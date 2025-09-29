@@ -19,7 +19,7 @@ const projects: Project[] = [
     id: 'Appointly-ks',
     name: 'Appointly-ks',
     description: 'Appointed is a digital platform that connects businesses and customers in Kosovo, making it easier to book appointments in a fast, organized, and professional way. Many businesses in Kosovo still rely on phone calls or messages for scheduling, which leads to confusion, missed appointments, and wasted time.With Appointed, businesses can manage their schedules online, and customers can book appointments instantly, anytime. The platform sends reminders, avoids double bookings, and improves customer service. From salons and dentists to mechanics and freelancers, Appointed helps everyone work smarter.Kosovo needs this now more than ever, as digital tools are essential for growth, efficiency, and professionalism. Appointed is the bridge to a more organized and modern service economy.',
-    icon: 'https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//logopng1324.png',
+    icon: 'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv/logo.png',
     githubUrl: 'https://github.com/lerthy/Appointly-ks',
     demoUrl: 'https://appointly-ks.netlify.app/',
     technologies: ['React', 'Next.js', 'Supabase', 'Tailwind CSS', 'TypeScript', 'Node.js'],
