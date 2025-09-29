@@ -27,7 +27,7 @@ const projects: Project[] = [
       'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv/Screenshot%202025-09-29%20at%2016.20.29.png',
       'https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv/Screenshot%202025-09-29%20at%2016.20.38.png'
     ],
-    logo: "https://fuppdlmqntefufvedcvr.supabase.co/storage/v1/object/public/logos//logopng1324.png"
+    logo: "https://ijdizbjsobnywmspbhtv.supabase.co/storage/v1/object/public/percv/logo.png"
   },
   {
     id: 'gymlift',
